@@ -1,0 +1,332 @@
+[
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521462921358,
+            "changeTime": 1521462921358,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521462921359,
+            "changeTime": 1521462921359,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463491744,
+            "changeTime": 1521463491744,
+            "contentHash": "0a0df1d54ec8b49b972a19a672bd2178bf609060",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521462921359,
+            "changeTime": 1521462921359,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463491728,
+            "changeTime": 1521463491728,
+            "contentHash": "2ddba448f8a1da202b77b8fbba613caa2d765cbf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\layouts\\Answer__c-Answer Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\layouts\\Answer__c-Answer Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2775,
+            "modifiedTime": 1521463491716,
+            "changeTime": 1521463491716,
+            "contentHash": "d8220efafa1b614490d37f1841c926f0ce800470",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\layouts\\Question__c-Question Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\layouts\\Question__c-Question Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3249,
+            "modifiedTime": 1521463491728,
+            "changeTime": 1521463491728,
+            "contentHash": "fb01453be9b70abef72baae2cfef264f07b0bb29",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463491792,
+            "changeTime": 1521463491792,
+            "contentHash": "80aae8a08b21039fe1d5eee94ffc60d7e4f404e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463491753,
+            "changeTime": 1521463491753,
+            "contentHash": "6b3091f78821f857ce93fcbea39540ba51df8ce6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\Answer__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\Answer__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2079,
+            "modifiedTime": 1521463491746,
+            "changeTime": 1521463491746,
+            "contentHash": "5d19a7e4206027c79463e3ade031239cae34acd1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463491751,
+            "changeTime": 1521463491751,
+            "contentHash": "a274ddf1e1f8fe449a772a6d41d59d2f2d377e81",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\fields\\Correct__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\fields\\Correct__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1521463491749,
+            "changeTime": 1521463491749,
+            "contentHash": "97609af64a2b8a5fdabe89fc3c82c26e58eafad4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\fields\\Question__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\fields\\Question__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 599,
+            "modifiedTime": 1521463491752,
+            "changeTime": 1521463491752,
+            "contentHash": "81901dbbc27867cb9b1d64c30cd158d56a9c157d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463491754,
+            "changeTime": 1521463491754,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Answer__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 301,
+            "modifiedTime": 1521463491755,
+            "changeTime": 1521463491755,
+            "contentHash": "e9f1071f1083b2e1eac8b18e1e6a1bb0e1446c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463491799,
+            "changeTime": 1521463491799,
+            "contentHash": "8ef94494b8d55b9d413ba7342224e7f7422475bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463491797,
+            "changeTime": 1521463491797,
+            "contentHash": "25387b187756bc2ba28345633454f532083325f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\fields\\No_of_Correct_Answers__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\fields\\No_of_Correct_Answers__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 582,
+            "modifiedTime": 1521463491797,
+            "changeTime": 1521463491797,
+            "contentHash": "88d3aa84a65b95905b51d596f7a6af6b45f91279",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463491800,
+            "changeTime": 1521463491800,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1521463491801,
+            "changeTime": 1521463491801,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\Question__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject\\force-app\\main\\default\\objects\\Question__c\\Question__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2192,
+            "modifiedTime": 1521463491794,
+            "changeTime": 1521463491794,
+            "contentHash": "bd971b793563832ac3b24be3ce7efa72cc284841",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lnandimand001\\Documents\\Salesforce_DX\\myproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521463568792,
+            "changeTime": 1521463568792,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
